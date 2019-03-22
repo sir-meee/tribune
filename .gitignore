@@ -1,0 +1,7 @@
+virtual/
+.vscode
+news/__pycache__/
+tribune/__pycache__/
+news/migrations/
+news/migrations/__pycache__/
+
